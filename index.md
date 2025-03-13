@@ -14,3 +14,23 @@ markdown title test
 
 
 markdown image test
+
+
+
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+``` javascript
+var myVar = "Hello, world!";
+```
+
+``` python
+string myString = "Hello, world!"
+int a = 666
+```
+
+
+markdown code test
